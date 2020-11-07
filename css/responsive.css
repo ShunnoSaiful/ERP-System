@@ -1,0 +1,28 @@
+@media (min-width: 320px) {
+	.firstborder{
+	border-right: 0px;
+} 
+}
+
+
+@media (min-width: 1200px) {
+	
+}
+
+
+@media (min-width: 991px) {
+	
+}
+
+
+@media (min-width: 768px) {
+	.firstborder{
+	border-right: 1px solid #cdd0c5!important;
+}
+}
+
+
+@media (min-width: 576px) {
+
+}
+
